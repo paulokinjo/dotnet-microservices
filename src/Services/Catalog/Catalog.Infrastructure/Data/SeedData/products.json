@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "summary": "Ergonomic wireless mouse",
+    "description": "A comfortable and responsive wireless mouse with long battery life.",
+    "imageFile": "mouse1.jpg",
+    "brands": { "id": "60c72b2f9b1e8d3f4c8b4567", "name": "Brand A" },
+    "types": { "id": "60c72b2f9b1e8d3f4c8b4580", "name": "Peripherals" },
+    "price": 29.99
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "summary": "RGB mechanical keyboard",
+    "description": "A durable mechanical keyboard with customizable RGB lighting.",
+    "imageFile": "keyboard1.jpg",
+    "brands": { "id": "60c72b2f9b1e8d3f4c8b4568", "name": "Brand B" },
+    "types": { "id": "60c72b2f9b1e8d3f4c8b4580", "name": "Peripherals" },
+    "price": 89.99
+  },
+  {
+    "name": "Noise Cancelling Headphones",
+    "summary": "Over-ear noise cancelling headphones",
+    "description": "Experience immersive sound with active noise cancellation.",
+    "imageFile": "headphones1.jpg",
+    "brands": { "id": "60c72b2f9b1e8d3f4c8b4569", "name": "Brand C" },
+    "types": { "id": "60c72b2f9b1e8d3f4c8b4579", "name": "Audio" },
+    "price": 199.99
+  },
+  {
+    "name": "4K Monitor",
+    "summary": "Ultra HD 27-inch monitor",
+    "description": "A stunning 4K monitor with vibrant colors and fast refresh rate.",
+    "imageFile": "monitor1.jpg",
+    "brands": { "id": "60c72b2f9b1e8d3f4c8b4570", "name": "Brand D" },
+    "types": { "id": "60c72b2f9b1e8d3f4c8b457f", "name": "Monitors" },
+    "price": 349.99
+  },
+  {
+    "name": "USB-C Docking Station",
+    "summary": "Multi-port USB-C docking station",
+    "description": "Expand your laptop connectivity with this versatile docking station.",
+    "imageFile": "dock1.jpg",
+    "brands": { "id": "60c72b2f9b1e8d3f4c8b4571", "name": "Brand E" },
+    "types": { "id": "60c72b2f9b1e8d3f4c8b457a", "name": "Accessories" },
+    "price": 119.99
+  }
+]
